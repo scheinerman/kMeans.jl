@@ -1,0 +1,7 @@
+name = "kMeans"
+uuid = "84493810-3d0f-4115-acea-10703338f362"
+authors = ["Ed Scheinerman <ers@jhu.edu>"]
+version = "0.0.1"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
