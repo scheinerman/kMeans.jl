@@ -138,7 +138,7 @@ function kmeans(
         end
         new_parts = _one_step(parts, dist)
         if new_parts == parts
-            println()
+            verbose && println()
             return parts
         end
         parts = new_parts
