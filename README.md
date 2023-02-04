@@ -1,2 +1,3 @@
-# kMeans.jl
+# kMeans
+
 `k`-means clustering
